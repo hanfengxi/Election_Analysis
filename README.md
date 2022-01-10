@@ -1,6 +1,6 @@
 # Election_Analysis (Module Practice)
 
-## project Overview
+## Project Overview
 The project is to assist a Colorado Board of Elections employee to complete an election audit of tabulated results for a recent local congressional election in Colorado.
 Our goal is to complete the following tasks with python
 
